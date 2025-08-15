@@ -102,6 +102,7 @@ div.column-cards {
     padding: 32px;
     gap: 32px;
     box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-top: 4px solid;
 }
 
 .cyan-card{ 
